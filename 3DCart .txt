@@ -1,0 +1,8 @@
+Make one big order
+ 
+ -split into 2 or more orders 
+ -Split orders for picks?
+
+
+
+Custom staus not supported. 
